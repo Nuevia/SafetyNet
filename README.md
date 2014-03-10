@@ -1,6 +1,6 @@
 SafetyNet
 ==============
-SafetyNet is a wireless, multi-user proximity monitoring system. An administrator (parent or group chaperone, for example) carries a pocket-sized base unit that is able to receive wireless "check-in" messages from bracelets within a given range (25-100 meters depending bracelet model and configuration).  When any bracelet fails to check in, the base unit can be configured to notify the administrator with vibration, alert tone, or optionally through the SafetyNet smartphone app via bluetooth.
+SafetyNet is a wireless, multi-user proximity monitoring system. An administrator (parent or group chaperone, for example) carries a pocket-sized base unit that is able to receive wireless "check-in" messages from bracelets within a given range (25-100 meters depending bracelet model and configuration).  When any bracelet fails to check in, the base unit notifies the administrator using the SafetyNet mobile app.
 
 Zone
 -----
