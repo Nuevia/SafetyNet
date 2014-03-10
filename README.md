@@ -26,6 +26,8 @@ Base Unit
 The base unit has several purposes:
 
 - receive bracelet check-in messages for a particular zone
-- notify administrator of failed checkins with vibration/sound alerts
 - if synced to a smartphone, send all checkin activity to smartphone for logging and notifications
 - wirelessy reprogram a bracelet's Zone Id or Checking Delay
+
+SafetyNet smartphone app
+--------
