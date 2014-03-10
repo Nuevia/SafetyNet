@@ -10,6 +10,8 @@ A base unit defaults to Zone 1, and automatically establishes that zone when it 
 
 Bracelets default to Zone 1 as well, and automatically join and begin checking in to that zone when they are powered on.  
 
+The range of the system will vary, depending on the bracelet model used, battery charge, and obstructions like buildings, hills, dense woods, etc.  Maximum, unobstructed range should be in the neighborhood of 50-75 meters.
+
 Bracelet
 --------
 
