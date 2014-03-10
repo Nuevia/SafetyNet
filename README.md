@@ -1,6 +1,6 @@
 SafetyNet
 ==============
-SafetyNet is a wireless, multi-user proximity monitoring system. An administrator (parent or group chaperone, for example) carries a pocket-sized base unit that is able to receive wireless "check-in" messages from bracelets within a given range (25-250 meters depending bracelet model and configuration).  When any bracelet fails to check in, the base unit can be configured to notify the administrator with vibration, alert tone, or optionally through the SafetyNet smartphone app via bluetooth.
+SafetyNet is a wireless, multi-user proximity monitoring system. An administrator (parent or group chaperone, for example) carries a pocket-sized base unit that is able to receive wireless "check-in" messages from bracelets within a given range (25-100 meters depending bracelet model and configuration).  When any bracelet fails to check in, the base unit can be configured to notify the administrator with vibration, alert tone, or optionally through the SafetyNet smartphone app via bluetooth.
 
 Zone
 -----
@@ -10,7 +10,7 @@ A base unit defaults to Zone 1, and automatically establishes that zone when it 
 
 Bracelets default to Zone 1 as well, and automatically join and begin checking in to that zone when they are powered on.  
 
-The range of the system will vary, depending on the bracelet model used, battery charge, and obstructions like buildings, hills, dense woods, etc.  Maximum, unobstructed range should be in the neighborhood of 50-75 meters.
+The range of the system will vary, depending on the bracelet model used, battery charge, and obstructions like buildings, hills, dense woods, etc.  Maximum, unobstructed range should be in the neighborhood of 50-100 meters.
 
 Bracelet
 --------
@@ -27,7 +27,10 @@ The base unit has several purposes:
 
 - receive bracelet check-in messages for a particular zone
 - if synced to a smartphone, send all checkin activity to smartphone for logging and notifications
-- wirelessy reprogram a bracelet's Zone Id or Checking Delay
 
 SafetyNet smartphone app
 --------
+Monitoring and configuration of the base unit(s) and bracelets is done from the mobile app.
+
+- Displays status of base unit and configured bracelets for Zone 1
+- Notifies administrator of any failed checkins
